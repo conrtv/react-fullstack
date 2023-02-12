@@ -10,7 +10,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: rgb(197, 197, 197);
+  background-color: rgb(233, 233, 233);
 }
 
 /* Home Page CSS */
@@ -110,4 +110,8 @@ label {
   margin-top: 0px;
   text-align: center;
   width: 100%;
+}
+
+span {
+  color: red;
 }
